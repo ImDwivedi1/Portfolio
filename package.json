@@ -14,8 +14,8 @@
     "swiper-react": "1.0.0"
   },
   "devDependencies": {
-    "@babel/runtime": "7.13.8",
-    "typescript": "4.1.3"
+    "@babel/runtime": "@latest",
+    "typescript": "@latest"
   },
   "scripts": {
     "start": "react-scripts start",
